@@ -1,0 +1,8 @@
+speechrecognition
+pyttsx3
+pyautogui
+requests
+openai
+PyQt5
+sounddevice
+numpy
